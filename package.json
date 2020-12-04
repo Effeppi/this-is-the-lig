@@ -1,0 +1,25 @@
+{
+  "name": "this-is-the-lig",
+  "version": "1.0.0",
+  "description": "A funny project with my colleagues/friends about the Lig. Please, do not consider to feel this a serious project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Effeppi/this-is-the-lig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Effeppi/this-is-the-lig/issues"
+  },
+  "homepage": "https://github.com/Effeppi/this-is-the-lig#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "domanda": "mi puoi dare un update?",
+        "risposta": "429",
+        "bot": "Se ti serve supporto fammi sapere :) ... "
+    },
+    {
+        "domanda": "potresti mettere un commento?",
+        "risposta": "^\\.$",
+        "bot": "Grazie. "
+    },
+    {
+        "domanda": "non mi funziona la print. Puoi chiamare un esperto Adobe?",
+        "risposta": "manfra",
+        "bot": "Ma quello è esperto di lega... "
+    }
+]
